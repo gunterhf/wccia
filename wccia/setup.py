@@ -46,7 +46,7 @@ setup(
     #     'console_scripts': ['mycli=mymodule:cli'],
     # },
     install_requires = [
-        'nltk==3.4.1',
+        'nltk==3.4.5',
         'setuptools==41.0.1',
         #'sphinx==1.6.3',
         #'sphinx_rtd_theme==0.2.4',
