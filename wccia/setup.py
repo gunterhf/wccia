@@ -57,7 +57,7 @@ setup(
         'pocketsphinx',
         'textract',
         'IMAPClient==2.1.0',
-        'numpy==1.16.3',
+        'numpy==1.22.0',
         'PyPDF3==1.0.1',
         'beautifulsoup4==4.5.3',
         'pymongo==3.8.0',
