@@ -47,7 +47,7 @@ setup(
     # },
     install_requires = [
         'nltk==3.4.1',
-        'setuptools==41.0.1',
+        'setuptools==65.5.1',
         #'sphinx==1.6.3',
         #'sphinx_rtd_theme==0.2.4',
         #'sphinx-argparse==0.2.1',
