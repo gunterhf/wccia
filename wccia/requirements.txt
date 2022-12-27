@@ -1,5 +1,5 @@
 nltk==3.4.1
-setuptools==41.0.1
+setuptools==65.5.1
 extract_msg==0.23.1
 textract==1.6.1
 IMAPClient==2.1.0
